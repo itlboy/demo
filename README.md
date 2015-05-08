@@ -1,2 +1,3 @@
-# demo
-Some demo applications
+# test
+
+a [Sails](http://sailsjs.org) application
